@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lee and Brena Freeman Professor, <a href='https://www.law.uchicago.edu/faculty/malani'>University of Chicago Law School</a>. Currently on leave as Chief Economist, <a href='https://www.cms.gov'>Centers for Medicare & Medicaid Services</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>University of Chicago Law School</p>
+    <p>1111 East 60th Street</p>
+    <p>Chicago, IL 60637</p>
+    <p><a href="mailto:amalani@uchicago.edu">amalani@uchicago.edu</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Anup Malani is the Lee and Brena Freeman Professor at the University of Chicago Law School. He is presently on leave from the University as the Chief Economist for the Centers for Medicare and Medicaid Services in Washington, DC.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+He conducts research in health economics and policy, law and economics, and development economics. He has taught health law and policy and health economics, law and economics, microeconomics, food and drug law, securities law, bankruptcy law, corporate law, contract law, and insurance law.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Malani is also a Professor (courtesy) at the Pritzker School of Medicine at the University of Chicago, a Research Associate (healthcare and development) at the [National Bureau of Economic Research](https://www.nber.org/people/anup_malani), and the founding Faculty Director of the [International Innovation Corps](https://internationalinnovationcorps.org) at the Harris School of Public Policy.
+
+Malani is an elected member of the American Academy of Arts & Sciences, a member of the Covid Crisis Group, and has twice won the Emergent Ventures Prize.
+
+He has a J.D. and a Ph.D. (economics) from the University of Chicago (advisors: Gary Becker, Tomas Philipson, and Willard Manning).

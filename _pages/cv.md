@@ -1,12 +1,14 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 4
+description: Curriculum vitae, sorted by topic. Maintained in LaTeX; recompiled and pushed via the <code>/publish-cv</code> skill.
 ---
+
+<a class="btn btn-primary" href="https://github.com/anup-malani/website_personal/blob/main/Malani%20Resume%20Sorted%202504.pdf" target="_blank">Download CV (PDF)</a>
+
+<p style="margin-top: 1.5em;">
+The CV link points at the most recently compiled version on GitHub. The unsorted (chronological) variant and prior dated releases are available <a href="https://github.com/anup-malani/website_personal/tree/main" target="_blank">in the repository</a>.
+</p>
