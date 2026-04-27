@@ -1,0 +1,1259 @@
+---
+---
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PEER-REVIEWED: HEALTH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{pughmeyerowitzmalani2024hierarchical,
+  title     = {A Hierarchical Bayesian Model for Estimating Age-Specific {COVID}-19 Infection Fatality Rates in Developing Countries},
+  author    = {Pugh, S. and Levin, A. T. and Meyerowitz-Katz, G. and Soman, S. and Owusu-Boaitey, N. and Zwi, A. B. and Malani, A. and Wilson, A. and Fosdick, B. K.},
+  year      = {2024},
+  journal   = {Statistics in Medicine},
+  volume    = {43},
+  number    = {30},
+  pages     = {5667--5680},
+  doi       = {10.1002/sim.10259},
+  category  = {peer-reviewed-health}
+}
+
+@article{malani2024cellularimmunity,
+  title     = {Comparing population-level humoral and cellular immunity to {SARS-CoV}-2 in {Bangalore}, {India}},
+  author    = {Malani, A. and Aiyar, J. and Sant, A. and Kamran, N. and Mohanan, M. and Taneja, S. and Woda, B. and Zhao, W. and Acharya, A.},
+  year      = {2024},
+  journal   = {Scientific Reports},
+  volume    = {14},
+  number    = {1},
+  pages     = {5758},
+  doi       = {10.1038/s41598-024-54922-z},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_MalaniEtAl_SciReports_CellullarImmunity.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{selvavinayagam2024tamilnadusero,
+  title     = {Contribution of infection and vaccination to population-level seroprevalence through two {COVID} waves in {Tamil Nadu}, {India}},
+  author    = {Selvavinayagam, T. S. and Somasundaram, A. and Selvam, J. M. and Sampath, P. and Vijayalakshmi, V. and Kumar, C. A. B. and Subramaniam, S. and Kumarasamy, P. and Raju, S. and Avudaiselvi, R. and Prakash, V. and Yogananth, N. and Subramanian, G. and Roshini, A. and Dhiliban, D. N. and Imad, S. and Tandel, V. and Parasa, R. and Sachdeva, S. and others},
+  year      = {2024},
+  journal   = {Scientific Reports},
+  volume    = {14},
+  number    = {1},
+  pages     = {2091},
+  doi       = {10.1038/s41598-023-50338-3},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_SelvavinayagamMalaniEtAl_SciReports_TamilNaduSero.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malani2023devtorigins,
+  title     = {Conceptual and analytical approaches for modelling the developmental origins of inequality},
+  author    = {Malani, A. and Archie, E. A. and Rosenbaum, S.},
+  year      = {2023},
+  journal   = {Philosophical Transactions of the Royal Society B: Biological Sciences},
+  volume    = {378},
+  number    = {1883},
+  pages     = {20220306},
+  doi       = {10.1098/rstb.2022.0306},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_MalaniEtAl_PhilTrans_DevtOrigins.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{dumalani2023fractiodoses,
+  title     = {Cost effectiveness of fractional doses of {COVID}-19 vaccine boosters in {India}},
+  author    = {Du, Z. and Wang, L. and Bai, Y. and Feng, S. and Ramachandran, S. and Lim, W. W. and Lau, E. H. Y. and Malani, A. and Cowling, B. J.},
+  year      = {2023},
+  journal   = {Med},
+  volume    = {4},
+  number    = {3},
+  pages     = {182--190},
+  doi       = {10.1016/j.medj.2023.02.001},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_DuMalaniEtAl_Med_CoestEffectiveFractionalDoses.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{shafrinmalani2023irapricing,
+  title     = {A strategy for value-based drug pricing under the {Inflation Reduction Act}},
+  author    = {Shafrin, J. and Lakdawalla, D. N. and Doshi, J. A. and Garrison, L. P. and Malani, A. and Neumann, P. J. and Phelps, C. E. and Towse, A. and Willke, R. J.},
+  year      = {2023},
+  journal   = {Health Affairs Forefront},
+  doi       = {10.1377/forefront.20230503.153705},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_ShafrinMalaniEtAl_HealthAffairs_IRAValuePricing.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{levinmalani2022covidburden,
+  title     = {Assessing the burden of {COVID}-19 in developing countries: systematic review, meta-analysis and public policy implications},
+  author    = {Levin, A. T. and Owusu-Boaitey, N. and Pugh, S. and Fosdick, B. K. and Zwi, A. B. and Malani, A. and Soman, S. and Besançon, L. and Kashnitsky, I. and Ganesh, S. and McLaughlin, A. and Song, G. and Uhm, R. and Herrera-Esposito, D. and de los Campos, G. and Peçanha Antonio, A. C. and Tadese, E. B. and Meyerowitz-Katz, G.},
+  year      = {2022},
+  journal   = {BMJ Global Health},
+  volume    = {7},
+  number    = {5},
+  pages     = {e008477},
+  doi       = {10.1136/bmjgh-2022-008477},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_LevinMalaniEtAl_BMJGlobalHealth_COVIDMortalityDeveloping%20Countries.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malaniramachandran2022covidmortality,
+  title     = {Using household rosters from survey data to estimate all-cause excess death rates during the {COVID} pandemic in {India}},
+  author    = {Malani, A. and Ramachandran, S.},
+  year      = {2022},
+  journal   = {Journal of Development Economics},
+  volume    = {159},
+  pages     = {102988},
+  doi       = {10.1016/j.jdeveco.2022.102988},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_MalaniRamachandran_JDE_MortalityCOVID.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{dumalani2022dosefractionation,
+  title     = {Modeling comparative cost-effectiveness of {SARS-CoV}-2 vaccine dose fractionation in {India}},
+  author    = {Du, Z. and Wang, L. and Pandey, A. and Lim, W. W. and Chinazzi, M. and y Piontti, A. P. and Lau, E. H. Y. and Wu, P. and Malani, A. and Cobey, S. and Cowling, B. J.},
+  year      = {2022},
+  journal   = {Nature Medicine},
+  volume    = {28},
+  number    = {5},
+  pages     = {934--938},
+  doi       = {10.1038/s41591-022-01736-z},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_DuMalaniEtAl_NatureMed_DoseFractionation.pdf},
+  category  = {peer-reviewed-health},
+  selected  = {true}
+}
+
+@article{wenmalani2022fluevolution,
+  title     = {The Potential Beneficial Effects of Vaccination on Antigenically Evolving Pathogens},
+  author    = {Wen, F. T. and Malani, A. and Cobey, S.},
+  year      = {2022},
+  journal   = {The American Naturalist},
+  volume    = {199},
+  number    = {2},
+  pages     = {223--237},
+  doi       = {10.1086/717410},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_WenMalaniCobey_AmerNaturalist_FluEvolution.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{shengmalani2022slummobility,
+  title     = {{JUE} insights: Does mobility explain why slums were hit harder by {COVID}-19 in {Mumbai}, {India}?},
+  author    = {Sheng, J. and Malani, A. and Goel, A. and Botla, P.},
+  year      = {2022},
+  journal   = {Journal of Urban Economics},
+  volume    = {127},
+  pages     = {103357},
+  doi       = {10.1016/j.jue.2021.103357},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_ShengMalaniEtAl_JUE_SlumMobilityCOVID.pdf},
+  category  = {peer-reviewed-health}
+}
+
+% TODO: verify PDF link — source LaTeX uses same PDF as shengmalani2022slummobility above (SlumMobilityCOVID.pdf), which appears to be a copy-paste error
+@article{tandelmalani2022sluminfrastructure,
+  title     = {Infrastructure, enforcement, and {COVID}-19 in {Mumbai} slums: {A} first look},
+  author    = {Tandel, V. and Gandhi, S. and Patranabis, S. and Bettencourt, L. M. A. and Malani, A.},
+  year      = {2022},
+  journal   = {Journal of Regional Science},
+  volume    = {62},
+  number    = {3},
+  pages     = {645--669},
+  doi       = {10.1111/jors.12552},
+  category  = {peer-reviewed-health}
+}
+
+@article{malani2021mortalperil,
+  title     = {Still in mortal peril? {Recent} research suggests a new agenda for health care reform},
+  author    = {Malani, A.},
+  year      = {2021},
+  journal   = {Journal of Legal Studies},
+  volume    = {50},
+  number    = {S2},
+  pages     = {S239--S273},
+  doi       = {10.1086/708094},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_Malani_JLS_MortalPeril.pdf},
+  category  = {peer-reviewed-health}
+}
+
+% TODO: verify PDF link — source LaTeX uses 2021_Malani_JLS_MortalPeril.pdf, which belongs to the preceding entry; likely a copy-paste error
+@article{caimalani2021covidifrindia,
+  title     = {Representative estimates of {COVID}-19 infection fatality rates from four locations in {India}: cross-sectional study},
+  author    = {Cai, R. and Novosad, P. and Tandel, V. and Asher, S. and Malani, A.},
+  year      = {2021},
+  journal   = {BMJ Open},
+  volume    = {11},
+  number    = {10},
+  pages     = {e050920},
+  doi       = {10.1136/bmjopen-2021-050920},
+  category  = {peer-reviewed-health}
+}
+
+@article{mohananmalani2021karnataka,
+  title     = {Prevalence of {SARS-CoV}-2 in {Karnataka}, {India}},
+  author    = {Mohanan, M. and Malani, A. and Krishnan, K. and Acharya, A.},
+  year      = {2021},
+  journal   = {JAMA},
+  volume    = {325},
+  number    = {10},
+  pages     = {1001--1003},
+  doi       = {10.1001/jama.2021.0332},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_MohananMalani_JAMA_COVIDKarnatakaSero.pdf},
+  category  = {peer-reviewed-health},
+  selected  = {true}
+}
+
+@article{malani2021lancetslums,
+  title     = {Seroprevalence of {SARS-CoV}-2 in slums versus non-slums in {Mumbai}, {India}},
+  author    = {Malani, A. and Shah, D. and Kang, G. and Lobo, G. N. and Shastri, J. and Mohanan, M. and Jain, R. and Agrawal, S. and Juneja, S. and Imad, S. and Kolthur-Seetharam, U.},
+  year      = {2021},
+  journal   = {The Lancet Global Health},
+  volume    = {9},
+  number    = {2},
+  pages     = {e110--e111},
+  doi       = {10.1016/S2214-109X(20)30467-8},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_MalaniEtAl_LancetGH_SeroMumbaiSlums.pdf},
+  category  = {peer-reviewed-health},
+  selected  = {true}
+}
+
+@article{hellandmalani2020productsliab,
+  title     = {Unintended Consequences of Products Liability: {Evidence} from the Pharmaceutical Market},
+  author    = {Helland, E. and Lakdawalla, D. and Malani, A. and Seabury, S. A.},
+  year      = {2020},
+  journal   = {The Journal of Law, Economics, and Organization},
+  volume    = {36},
+  number    = {3},
+  pages     = {598--632},
+  doi       = {10.1093/jleo/ewaa017},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2020_HellandMalaniEtAl_JLEO_PharmaProductsLiability.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malaniphilipson2019labormarkets,
+  title     = {Labor markets in statistics: {The} subject supply effect in medical {R\&D}},
+  author    = {Malani, A. and Philipson, T. J.},
+  year      = {2019},
+  journal   = {Journal of Human Capital},
+  volume    = {13},
+  number    = {2},
+  pages     = {293--340},
+  doi       = {10.1086/702923},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2019_MalaniPhilipson_JHC_TrialSubjectMarket.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{lakdawallamalani2017insurancevalue,
+  title     = {The insurance value of medical innovation},
+  author    = {Lakdawalla, D. and Malani, A. and Reif, J.},
+  year      = {2017},
+  journal   = {Journal of Public Economics},
+  volume    = {145},
+  pages     = {94--102},
+  doi       = {10.1016/j.jpubeco.2016.11.012},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2017_LakdawallaMalaniReif_JPubEcon_ValueInnovation.pdf},
+  category  = {peer-reviewed-health},
+}
+
+@article{chandrafrakes2017civilrights,
+  title     = {Challenges to reducing discrimination and health inequity through existing civil rights laws},
+  author    = {Chandra, A. and Frakes, M. and Malani, A.},
+  year      = {2017},
+  journal   = {Health Affairs},
+  volume    = {36},
+  number    = {6},
+  pages     = {1041--1047},
+  doi       = {10.1377/hlthaff.2016.1091},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2017_ChandraFrakesMalani_HealthAffairs_CivilRights.pdf},
+  category  = {peer-reviewed-health}
+}
+
+% Note: item has no year bracket in source (\item[] with no year); year inferred from text (2017)
+@article{chandramalani2017civilrightsreply,
+  title     = {Civil Rights Laws: {The} Authors Reply},
+  author    = {Chandra, A. and Frakes, M. and Malani, A.},
+  year      = {2017},
+  journal   = {Health Affairs},
+  volume    = {36},
+  number    = {12},
+  pages     = {2212--2212},
+  doi       = {10.1377/hlthaff.2017.1407},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2017_ChandraMalani_ReplyCivilRights.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{bennettmalani2015sars,
+  title     = {Learning during a crisis: {The} {SARS} epidemic in {Taiwan}},
+  author    = {Bennett, D. and Chiang, C.-F. and Malani, A.},
+  year      = {2015},
+  journal   = {Journal of Development Economics},
+  volume    = {112},
+  pages     = {1--18},
+  doi       = {10.1016/j.jdeveco.2014.09.006},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2015_BennettChiangMalani_JDE_SARSLearning.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{laxminarayanmalani2014diseaseoutbreaks,
+  title     = {Incentives for reporting disease outbreaks},
+  author    = {Laxminarayan, R. and Reif, J. and Malani, A.},
+  year      = {2014},
+  journal   = {PLoS ONE},
+  volume    = {9},
+  number    = {3},
+  pages     = {e90290},
+  doi       = {10.1371/journal.pone.0090290},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2014_LaxminarayanReifMalani_PLOSOne_IncentivesDiseaseReporting.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{bonimalani2013avianflu,
+  title     = {Economic Epidemiology of Avian Influenza on Smallholder Poultry Farms},
+  author    = {Boni, M. and Galvani, A. and Wickelgren, A. and Malani, A.},
+  year      = {2013},
+  journal   = {Theoretical Population Biology},
+  volume    = {90},
+  pages     = {135--144},
+  doi       = {10.1016/j.tpb.2013.10.001},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2013_BoniMalani_AvianFlu.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{kamenicamalani2013placeboads,
+  title     = {Advertisements impact the physiological efficacy of a branded drug},
+  author    = {Kamenica, E. and Naclerio, R. and Malani, A.},
+  year      = {2013},
+  journal   = {Proceedings of the National Academy of Sciences},
+  volume    = {110},
+  number    = {32},
+  pages     = {12931},
+  doi       = {10.1073/pnas.1012818110},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2013_KamenicaMalani_PNAS_PlaceboAds.pdf},
+  category  = {peer-reviewed-health},,
+  selected  = {true}
+}
+
+@article{yangmalani2012hotcold,
+  title     = {The Hot--Cold Decision Triangle: {A} framework for healthier choices},
+  author    = {Yang, H. and Carmon, Z. and Kahn, B. and Malani, A. and Schwartz, J. and Volpp, K. and Wansink, B.},
+  year      = {2012},
+  journal   = {Marketing Letters},
+  pages     = {1--16},
+  doi       = {10.1007/s11002-012-9179-0},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2012_YangMalani_MarketingLetters_HotColdTriangle.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malanilaxminarayan2011reporting,
+  title     = {Incentives for Reporting Infectious Disease Outbreaks},
+  author    = {Malani, A. and Laxminarayan, R.},
+  year      = {2011},
+  journal   = {Journal of Human Resources},
+  volume    = {46},
+  number    = {1},
+  pages     = {176},
+  doi       = {10.3368/jhr.46.1.176},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2011_MalaniLaxminarayan_JHR_IncentivesDiseaseReporting.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{ebermalani2010hai,
+  title     = {Clinical and Economic Outcomes Attributable to Health Care--Associated Sepsis and Pneumonia},
+  author    = {Eber, M. R. and Laxminarayan, R. and Perencevich, E. N. and Malani, A.},
+  year      = {2010},
+  journal   = {Archives of Internal Medicine},
+  volume    = {170},
+  number    = {4},
+  pages     = {347--353},
+  doi       = {10.1001/archinternmed.2009.509},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2010_EberMalani_ArchiveIntMed_HAI.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malanicavid2008nonprofit,
+  title     = {Does Nonprofit Status Signal Quality?},
+  author    = {Malani, A. and David, G.},
+  year      = {2008},
+  journal   = {The Journal of Legal Studies},
+  volume    = {37},
+  number    = {2},
+  pages     = {551--576},
+  doi       = {10.1086/589668},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_Malani_JLS_NonProfitSignalQuality.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malanihouser2008placeboexpectation,
+  title     = {Expectations mediate objective physiological placebo effects},
+  author    = {Malani, A. and Houser, D.},
+  year      = {2008},
+  journal   = {Neuroeconomics: Advances in Health Economics and Health Services Research},
+  volume    = {20},
+  pages     = {311--327},
+  url       = {http://europepmc.org/abstract/MED/19552314},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_Malani_Neuroecon_CaffeinePlacebo.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{buchmanmalani2008abxoveruse,
+  title     = {Antibiotic Overuse: {The} Influence of Social Norms},
+  author    = {Buchman, T. G. and Dushoff, J. and Effron, M. B. and Ehrlich, P. R. and Fitzpatrick, S. and Laxminarayan, R. and Levin, B. and Levin, S. A. and Lipsitch, M. and Malani, A. and Nemeroff, C. and Otto, S. P. and Patel, V. L. and Solomkin, J. S.},
+  year      = {2008},
+  journal   = {Journal of the American College of Surgeons},
+  volume    = {207},
+  number    = {2},
+  url       = {https://journals.lww.com/journalacs/fulltext/2008/08000/antibiotic_overuse__the_influence_of_social_norms.17.aspx},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_BuchmanMalani_AbxOveruse.pdf},
+  category  = {peer-reviewed-health}
+}
+
+@article{malani2006placebo,
+  title     = {Identifying Placebo Effects with Data from Clinical Trials},
+  author    = {Malani, A.},
+  year      = {2006},
+  journal   = {Journal of Political Economy},
+  volume    = {114},
+  number    = {2},
+  pages     = {236--256},
+  doi       = {10.1086/500279},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2006_Malani_JPE_PlaceboEffects.pdf},
+  category  = {peer-reviewed-health},,
+  selected  = {true}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PEER-REVIEWED: STATISTICS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{jiangimalani2023twostage,
+  title     = {Statistical inference and power analysis for direct and spillover effects in two-stage randomized experiments},
+  author    = {Jiang, Z. and Imai, K. and Malani, A.},
+  year      = {2023},
+  journal   = {Biometrics},
+  volume    = {79},
+  number    = {3},
+  pages     = {2370--2381},
+  doi       = {10.1111/biom.13782},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_JiangImaiMalani_Biometrics_TwoStageExperiments.pdf},
+  category  = {peer-reviewed-statistics}
+}
+
+@article{imaijiangmalani2021jasa,
+  title     = {Causal Inference With Interference and Noncompliance in Two-Stage Randomized Experiments},
+  author    = {Imai, K. and Jiang, Z. and Malani, A.},
+  year      = {2021},
+  journal   = {Journal of the American Statistical Association},
+  volume    = {116},
+  number    = {534},
+  pages     = {632--644},
+  doi       = {10.1080/01621459.2020.1775612},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_ImaiMalaniJiang_JASA_TwoStageExperiments.pdf},
+  category  = {peer-reviewed-statistics},,
+  selected  = {true}
+}
+
+@article{malanireif2015anticipation,
+  title     = {Interpreting pre-trends as anticipation: {Impact} on estimated treatment effects from tort reform},
+  author    = {Malani, A. and Reif, J.},
+  year      = {2015},
+  journal   = {Journal of Public Economics},
+  volume    = {124},
+  pages     = {1--17},
+  doi       = {10.1016/j.jpubeco.2015.01.001},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2015_MalaniReif_JPubEc_Anticipation.pdf},
+  category  = {peer-reviewed-statistics}
+}
+
+@article{malanibembom2012fdahet,
+  title     = {Accounting for Differences among Patients in the {FDA} Approval Process},
+  author    = {Malani, A. and Bembom, O. and van der Laan, M.},
+  year      = {2012},
+  journal   = {Food and Drug Law Journal},
+  volume    = {67},
+  pages     = {23--50},
+  url       = {https://heinonline.org/HOL/LandingPage?handle=hein.journals/foodlj67&div=7&id=&page=},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2012_Malani_FDAHetergeneousTreatmentEffects.pdf},
+  category  = {peer-reviewed-statistics}
+}
+
+@article{malani2008patientenrollment,
+  title     = {Patient enrollment in medical trials: {Selection} bias in a randomized experiment},
+  author    = {Malani, A.},
+  year      = {2008},
+  journal   = {Journal of Econometrics},
+  volume    = {144},
+  number    = {2},
+  pages     = {341--351},
+  doi       = {10.1016/j.jeconom.2008.04.002},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_Malani_JMetrics_PatientEnrollment.pdf},
+  category  = {peer-reviewed-statistics}
+}
+
+@article{philipsonmalani1999measurement,
+  title     = {Measurement errors: {A} principal investigator-agent approach},
+  author    = {Philipson, T. and Malani, A.},
+  year      = {1999},
+  journal   = {Journal of Econometrics},
+  volume    = {91},
+  number    = {2},
+  pages     = {273--298},
+  doi       = {10.1016/S0304-4076(98)00078-5},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/1999_PhilipsonMalani_MeasurementErrors.pdf},
+  category  = {peer-reviewed-statistics}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PEER-REVIEWED: ECONOMIC GROWTH AND DEVELOPMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{abbotmalani2025limitsgrowth,
+  title     = {Revisiting the physical limits to economic growth, with a focus on the waste heat limit},
+  author    = {Abbot, D. S. and Malani, A.},
+  year      = {2025},
+  journal   = {PLoS ONE},
+  volume    = {20},
+  number    = {3},
+  pages     = {e0319217},
+  doi       = {10.1371/journal.pone.0319217},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2025_AbbotMalani_LimitsGrowth.pdf},
+  category  = {peer-reviewed-econ-growth-dev}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PEER-REVIEWED: BLOCKCHAIN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{holdenmalani2022velocity,
+  title     = {An examination of velocity and initial coin offerings},
+  author    = {Holden, R. and Malani, A.},
+  year      = {2022},
+  journal   = {Management Science},
+  volume    = {68},
+  number    = {12},
+  pages     = {9026--9041},
+  doi       = {10.1287/mnsc.2022.4314},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_HoldenMalani_ManagementScience_VelocityICO.pdf},
+  category  = {peer-reviewed-blockchain},,
+  selected  = {true}
+}
+
+@article{holdenmalani2022lawblockchain,
+  title     = {The law and economics of blockchain},
+  author    = {Holden, R. and Malani, A.},
+  year      = {2022},
+  journal   = {Annual Review of Law and Social Science},
+  volume    = {18},
+  pages     = {297--313},
+  doi       = {10.1146/annurev-lawsocsci-011921-060322},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_HoldenMalani_AnnualReview_LawEconomicsBlockchain.pdf},
+  category  = {peer-reviewed-blockchain}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% PEER-REVIEWED: LAW & REGULATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Note: NAACL Findings 2025 is a conference proceedings entry listed under Law & regulation subsection
+@inproceedings{heddayamalani2025casesumm,
+  title     = {{CaseSumm}: {A} Large-Scale Dataset for Long-Context Summarization from {U.S. Supreme Court} Opinions},
+  author    = {Heddaya, M. and MacMillan, K. and Malani, A. and Mei, H. and Tan, C.},
+  year      = {2025},
+  booktitle = {NAACL Findings},
+  category  = {peer-reviewed-law-reg}
+}
+
+@article{bakermalani2022accuracy,
+  title     = {Compromising accuracy to encourage regulatory participation},
+  author    = {Baker, S. and Malani, A.},
+  year      = {2022},
+  journal   = {Journal of Legal Studies},
+  volume    = {51},
+  number    = {1},
+  pages     = {1--38},
+  doi       = {10.1086/719238},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_BakerMalani_JLS_CompromisingAccuracy.pdf},
+  category  = {peer-reviewed-law-reg}
+}
+
+@article{farnsworthmalani2013implicitbias,
+  title     = {Implicit bias in legal interpretation},
+  author    = {Farnsworth, W. and Guzior, D. and Malani, A.},
+  year      = {2013},
+  journal   = {Journal of Law \& Courts},
+  volume    = {1},
+  number    = {1},
+  pages     = {115--138},
+  doi       = {10.1086/668603},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2013_FarnsworthGuziorMalani_PolicyPreferencesLegalInterpretation.pdf},
+  category  = {peer-reviewed-law-reg}
+}
+
+@article{farnsworthmalani2010ambiguity,
+  title     = {Ambiguity about Ambiguity: {An} Empirical Inquiry into Legal Interpretation},
+  author    = {Farnsworth, W. and Guzior, D. F. and Malani, A.},
+  year      = {2010},
+  journal   = {Journal of Legal Analysis},
+  volume    = {2},
+  number    = {1},
+  pages     = {257--300},
+  doi       = {10.1093/jla/2.1.257},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2010_FarnsworthGuziorMalani_JLA_Ambiguity.pdf},
+  category  = {peer-reviewed-law-reg}
+}
+
+@article{hynesmalani2004propertyexemption,
+  title     = {The Political Economy of Property Exemption Laws},
+  author    = {Hynes, Richard M. and Malani, A. and Posner, Eric A.},
+  year      = {2004},
+  journal   = {The Journal of Law and Economics},
+  volume    = {47},
+  number    = {1},
+  pages     = {19--43},
+  doi       = {10.1086/386276},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2004_HynesMalaniPosner_JLE_PropertyExemptionLaws.pdf},
+  category  = {peer-reviewed-law-reg}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% OTHER PUBLICATIONS: JOURNAL ARTICLES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@article{malani2023covidsurveilanceindia,
+  title     = {Lessons from Disease and Economic Surveillance during {COVID} in {India}},
+  author    = {Malani, A.},
+  year      = {2023},
+  journal   = {India Policy Forum},
+  volume    = {19},
+  number    = {1},
+  pages     = {121--180},
+  url       = {https://www.ncaer.org/wp-content/uploads/2023/07/IPF-2022-Volume-19.pdf#page=144},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_Malani_LessonCOVIDSurveillanceIndia.pdf},
+  category  = {other-articles}
+}
+
+@article{baudemalani2017doctrinalmethod,
+  title     = {Making doctrinal work more rigorous: {Lessons} from systematic reviews},
+  author    = {Baude, W. and Chilton, A. S. and Malani, A.},
+  year      = {2017},
+  journal   = {University of Chicago Law Review},
+  volume    = {84},
+  number    = {1},
+  pages     = {37--58},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/uclr84&i=43},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2017_BaudeChiltonMalani_UCLR_DoctrinalMethod.pdf},
+  category  = {other-articles}
+}
+
+@article{baudemalani2017positivelegal,
+  title     = {A Call for Developing a Field of Positive Legal Methodology},
+  author    = {Baude, W. and Chilton, A. S. and Malani, A.},
+  year      = {2017},
+  journal   = {University of Chicago Law Review},
+  volume    = {84},
+  number    = {1},
+  pages     = {1--6},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/uclr84&i=7},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2017_BaudeMalani_PositiveLegalMethodology.pdf},
+  category  = {other-articles}
+}
+
+@article{nandilamani2015rsby,
+  title     = {The need for better evidence to evaluate the health and economic benefits of {India}'s {Rashtriya Swasthya Bima Yojana}},
+  author    = {Nandi, A. and Holtzman, E. P. and Malani, A. and Laxminarayan, R.},
+  year      = {2015},
+  journal   = {Indian Journal of Medical Research},
+  volume    = {142},
+  number    = {4},
+  pages     = {383--390},
+  doi       = {10.4103/0971-5916.169194},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2015_NandiMalaniEtAl_IJMR_IndiaHealthInsurance.pdf},
+  category  = {other-articles}
+}
+
+@article{holdenmalani2014renegotiation,
+  title     = {Renegotiation design by contract},
+  author    = {Holden, R. and Malani, A.},
+  year      = {2014},
+  journal   = {University of Chicago Law Review},
+  volume    = {81},
+  number    = {1},
+  pages     = {151--178},
+  url       = {http://www.jstor.org/stable/23646373},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2014_HoldenMalani_UCLR_Renegotiation.pdf},
+  category  = {other-articles}
+}
+
+@article{bakermalani2014enforcerdilemma,
+  title     = {Trial court budgets, the enforcer's dilemma, and the rule of law},
+  author    = {Baker, S. and Malani, A.},
+  year      = {2014},
+  journal   = {University of Illinois Law Review},
+  volume    = {2014},
+  number    = {5},
+  pages     = {1573--1602},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/unilllr2014&i=1593},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2014_BakerMalani_UIllLRev_EnforcersDilemma.pdf},
+  category  = {other-articles}
+}
+
+@article{malanimasur2012patent,
+  title     = {Raising the Stakes in Patent Cases},
+  author    = {Malani, A. and Masur, J. S.},
+  year      = {2012},
+  journal   = {Georgetown Law Journal},
+  volume    = {101},
+  number    = {3},
+  pages     = {637--688},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/glj101&i=665},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2012_MalaniMasur_PatentDamages.PDF},
+  category  = {other-articles}
+}
+
+@article{hendersonmalani2009philanthropy,
+  title     = {Corporate Philanthropy and the Market for Altruism},
+  author    = {Henderson, M. T. and Malani, A.},
+  year      = {2009},
+  journal   = {Columbia Law Review},
+  volume    = {109},
+  number    = {3},
+  pages     = {571--628},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/clr109&i=583},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2009_Henderson_Malani_CorporatePhilathropy.pdf},
+  category  = {other-articles},
+  selected  = {true}
+}
+
+@article{malani2008regulationplacebo,
+  title     = {Regulation with Placebo Effects},
+  author    = {Malani, A.},
+  year      = {2008},
+  journal   = {Duke Law Journal},
+  volume    = {58},
+  number    = {3},
+  pages     = {411--472},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/duklr58&i=417},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_Malani_DukeLJ_RegulationPlaceboEffects.pdf},
+  category  = {other-articles},
+}
+
+@article{malani2008lawsamenities,
+  title     = {Valuing Laws as Local Amenities},
+  author    = {Malani, A.},
+  year      = {2008},
+  journal   = {Harvard Law Review},
+  volume    = {121},
+  number    = {5},
+  pages     = {1273--1331},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/hlr121&i=1295},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2008_Malani_HarvLRev_LawAsLocalAmenity.pdf},
+  category  = {other-articles},,
+  selected  = {true}
+}
+
+@article{malaniposner2007forprofit,
+  title     = {The Case for For-Profit Charities},
+  author    = {Malani, A. and Posner, E. A.},
+  year      = {2007},
+  journal   = {Virginia Law Review},
+  volume    = {93},
+  number    = {8},
+  pages     = {2017--2067},
+  url       = {http://www.jstor.org/stable/25050404},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2007_Malani_CaseForForProfitCharities.pdf},
+  category  = {other-articles}
+}
+
+@article{malani2007medmalintro,
+  title     = {Introduction: {Current} Research on Medical Malpractice Liability},
+  author    = {Malani, A.},
+  year      = {2007},
+  journal   = {The Journal of Legal Studies},
+  volume    = {36},
+  number    = {S2},
+  pages     = {S1--S8},
+  doi       = {10.1086/587430},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2007_Malani_MedMalReview.pdf},
+  category  = {other-articles}
+}
+
+@article{malani2006habeas,
+  title     = {Habeas Settlements},
+  author    = {Malani, A.},
+  year      = {2006},
+  journal   = {Virginia Law Review},
+  volume    = {92},
+  number    = {1},
+  pages     = {1--68},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/valr92&i=15},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2006_Malani_HabeasSettlements.pdf},
+  category  = {other-articles}
+}
+
+@article{malani1999ricoforfeiture,
+  title     = {The Scope of Criminal Forfeiture under {RICO}: {The} Appropriate Definition of Proceeds},
+  author    = {Malani, A.},
+  year      = {1999},
+  journal   = {University of Chicago Law Review},
+  volume    = {66},
+  number    = {4},
+  pages     = {1289--1316},
+  url       = {https://heinonline.org/HOL/P?h=hein.journals/uclr66&i=1297},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/1999_Malani_RICOForfeiture.pdf},
+  category  = {other-articles}
+}
+
+@article{hufbauermalani1994fdi,
+  title     = {Determinants of Direct Foreign Investment and Its Connection to Trade},
+  author    = {Hufbauer, G. and Malani, A. and Lakdawalla, D.},
+  year      = {1994},
+  journal   = {UNCTAD Review},
+  volume    = {5},
+  pages     = {39},
+  category  = {other-articles}
+}
+
+@article{hufbauermalani1993gatt,
+  title     = {The world trade regime: {GATT}, regional cooperation, bilateral Confrontation},
+  author    = {Hufbauer, G. and Malani, A.},
+  year      = {1993},
+  journal   = {The International Spectator},
+  volume    = {28},
+  number    = {2},
+  pages     = {63--80},
+  doi       = {10.1080/03932729308458009},
+  category  = {other-articles}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% BOOKS AND BOOK CHAPTERS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@book{malaniheaderson2024web3desk,
+  title     = {Legal Matters in {Web} 3: {A} Desk Reference},
+  author    = {Malani, A. and Henderson, M. T.},
+  year      = {2024},
+  url       = {https://www.law.uchicago.edu/sites/default/files/2024-09/LM%20Web3%20Desk%20Reference%20-%20Formatted%20-%20240907.pdf},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_Malani_Web3DeskReference.pdf},
+  category  = {books}
+}
+
+@book{covidcrisisgroup2023lessons,
+  title     = {Lessons from the Covid War: {An} Investigative Report},
+  author    = {{Covid Crisis Group}},
+  year      = {2023},
+  publisher = {PublicAffairs},
+  url       = {https://books.google.com/books?id=gEedEAAAQBAJ},
+  category  = {books}
+}
+
+@incollection{mohananmalani2023seroprevalence,
+  title     = {The Role of Seroprevalence in Evidence for Policy-Making During {COVID}-19},
+  author    = {Mohanan, M. and Malani, A. and Acharya, A.},
+  year      = {2023},
+  booktitle = {Flattening the Curve},
+  editor    = {Chatterjee, C. and Chakrabarti, A. and Deolalikar, A.},
+  volume    = {4},
+  pages     = {187--205},
+  publisher = {World Scientific},
+  doi       = {10.1142/9789811262739_0007},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_MohananMalani_FlatteningCurveBook.pdf},
+  category  = {books}
+}
+
+@book{holdenmalani2021blockchainbook,
+  title     = {Can Blockchain Solve the Hold-Up Problem in Contracts?},
+  author    = {Holden, R. and Malani, A.},
+  year      = {2021},
+  publisher = {Cambridge University Press},
+  doi       = {10.1017/9781009004794},
+  category  = {books}
+}
+
+@book{malanischill2015healthcarereform,
+  title     = {The Future of Healthcare Reform in the {United States}},
+  editor    = {Malani, A. and Schill, M. H.},
+  year      = {2015},
+  publisher = {University of Chicago Press},
+  url       = {https://books.google.com/books?id=SJV1CgAAQBAJ},
+  category  = {books}
+}
+
+@incollection{lakdawallamalani2015healthinnovation,
+  title     = {The Complex Relationship Between Health Care Reform and Innovation},
+  author    = {Lakdawalla, D. and Malani, A. and Reif, J.},
+  year      = {2015},
+  booktitle = {The Future of Healthcare Reform in the {United States}},
+  editor    = {Malani, A. and Schill, M. H.},
+  pages     = {289},
+  publisher = {University of Chicago Press},
+  category  = {books}
+}
+
+@incollection{malaniphilipson2012regulation,
+  title     = {The Regulation of Medical Products},
+  author    = {Malani, A. and Philipson, T. J.},
+  year      = {2012},
+  booktitle = {The Oxford Handbook of the Economics of the Biopharmaceutical Industry},
+  editor    = {Danzon, P. M. and Nicholson, S.},
+  pages     = {100--142},
+  publisher = {Oxford University Press},
+  doi       = {10.1093/oxfordhb/9780199742998.013.0005},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2012_MalaniPhilipson_Handbook_RegulationMedicalProducts.pdf},
+  category  = {books}
+}
+
+@incollection{malani2012malariabookcomment,
+  title     = {Commentary on: {Cohen and Dickens}, Adoption of Over-the-Counter Malaria Diagnostics in {Africa}},
+  author    = {Malani, A.},
+  year      = {2012},
+  booktitle = {The Value of Information: Methodological Frontiers and New Applications in Environment and Health},
+  editor    = {Laxminarayan, R. and Macauley, M. K.},
+  pages     = {188--191},
+  publisher = {Springer Netherlands},
+  doi       = {10.1007/978-94-007-4839-2_7},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2012_Malani_p188_CommentOnCoehnAnimalarialDiagnostics.pdf},
+  category  = {books}
+}
+
+@incollection{laxminarayanmalani2011infectiousdiseases,
+  title     = {Economics of Infectious Diseases},
+  author    = {Laxminarayan, R. and Malani, A.},
+  year      = {2011},
+  booktitle = {The Oxford Handbook of Health Economics},
+  editor    = {Glied, S. and Smith, P. C.},
+  pages     = {189--205},
+  publisher = {Oxford University Press},
+  doi       = {10.1093/oxfordhb/9780199238828.013.0009},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2011_LaxminarayanMalani_EconomicsInfectiousDiseaseHandbook.pdf},
+  category  = {books}
+}
+
+@book{laxminarayanmalani2007extendingcure,
+  title     = {Extending the Cure: Policy Responses to the Growing Threat of Antibiotic Resistance},
+  author    = {Laxminarayan, R. and Malani, A.},
+  year      = {2007},
+  publisher = {Resources for the Future},
+  url       = {http://www.loc.gov/catdir/toc/ecip0712/2007008949.html},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2007_LaxminarayanMalani_ExtendingCureBook.pdf},
+  category  = {books}
+}
+
+@incollection{malaniphilipson2003nonprofit,
+  title     = {Theories of firm behavior in the nonprofit sector: {A} synthesis and empirical evaluation},
+  author    = {Malani, A. and Philipson, T. and David, G.},
+  year      = {2003},
+  booktitle = {The Governance of Not-for-Profit Organizations},
+  editor    = {Glaeser, E.},
+  pages     = {181--216},
+  publisher = {NBER/University of Chicago Press},
+  url       = {https://www.nber.org/system/files/chapters/c9970/c9970.pdf},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2003_Malani_TheoryNonProfitOrgs.pdf},
+  category  = {books}
+}
+
+@incollection{hufbauermalani1996regionalism,
+  title     = {Economic Dimensions of Regionalism},
+  author    = {Hufbauer, G. and Malani, A.},
+  year      = {1996},
+  booktitle = {Academic Mobility in a Changing World: Regional and Global Trends},
+  editor    = {Blumenthal, P. and Goodwin, C. and Smith, A. and Teichle, U.},
+  publisher = {Jessica Kingsley Publishing},
+  category  = {books}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% CONFERENCE PROCEEDINGS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@inproceedings{malani2008brookingstaxes,
+  title     = {Comment on {Chapter 3} ({Burman}, {Garrett} and {Khitatrakun})},
+  author    = {Malani, A.},
+  year      = {2008},
+  booktitle = {Brookings Conference on Taxes and Health Insurance: Analysis and Policy},
+  address   = {Washington, D.C.},
+  category  = {conf-proceedings}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% REPORTS AND OTHER PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@techreport{bhattacharyamalani2013bestofboth,
+  title       = {Best of Both Worlds: {Uniting} Universal Coverage and Personal Choice in Health Care},
+  author      = {Bhattacharya, J. and Chandra, A. and Chernew, M. and Goldman, D. and Jena, A. and Lakdawalla, D. and Malani, A. and Philipson, T.},
+  year        = {2013},
+  institution = {American Enterprise Institute},
+  url         = {https://www.aei.org/research-products/working-paper/best-of-both-worlds-uniting-universal-coverage-and-personal-choice-in-health-care/},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2013_BhattacharyaMalani_AEI_BestBothWorlds.pdf},
+  category    = {reports}
+}
+
+@article{laxminarayanmalani2009carrotssticks,
+  title     = {The right combination of carrots and sticks},
+  author    = {Laxminarayan, R. and Malani, A.},
+  year      = {2009},
+  journal   = {Resources},
+  number    = {173},
+  pages     = {13--15},
+  url       = {https://www.resources.org/archives/the-right-combination-of-carrots-and-sticks-encouraging-surveillance-and-reporting-of-emerging-pandemics/},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2009_LaxminarayanMalani_CarrotsSticks_Pandemics.pdf},
+  category  = {reports}
+}
+
+@article{cantormalani2004jamaletter,
+  title     = {Ethical Issues in Research in Complementary and Alternative Medicine},
+  author    = {Cantor, H. E. and Malani, A.},
+  year      = {2004},
+  journal   = {JAMA},
+  volume    = {291},
+  number    = {18},
+  pages     = {2192--2194},
+  doi       = {10.1001/jama.291.18.2192-a},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2004_MalaniCantor_JAMALetter_PlaceboEffect.pdf},
+  category  = {reports}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LEGAL BRIEFS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Note: LaTeX item has year bracket [2008] but the brief was filed February 28, 2013; using 2013 as the actual filing/argument year
+@misc{malani2013actavisbrief,
+  title     = {Brief for Health Economics and Law Professors as Amici Curiae in Support of Respondents, {Federal Trade Commission} v.\ {Actavis, Inc.}, No.\ 12-416, {U.S. Supreme Court}},
+  author    = {Malani, A. and others},
+  year      = {2013},
+  note      = {Filed February 28, 2013; argued March 25, 2013},
+  pdf       = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2013_CowenMalani_Brief_Actavis_Brief-for-Health-Economics-and-Law-Professors.pdf},
+  category  = {legal-briefs}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% WORKING PAPERS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@techreport{lederluismalani2025healthcarefraud,
+  title       = {The Economics of Healthcare Fraud},
+  author      = {Leder-Luis, J. and Malani, A.},
+  year        = {2025},
+  institution = {National Bureau of Economic Research},
+  number      = {33592},
+  doi         = {10.3386/w33592},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2025_LederLuisMalani_NBER33592_HealthcareFraud.pdf},
+  category    = {working-papers},
+}
+
+@techreport{abbotmalani2025spaceimmigration,
+  title       = {An Economic Framework for Space Immigration},
+  author      = {Abbot, D. S. and Malani, A.},
+  year        = {2025},
+  note        = {Under review at \textit{Space: Science \& Technology}},
+  category    = {working-papers}
+}
+
+@techreport{malanijacob2024survivingchildren,
+  title       = {A New Measure of Surviving Children that Sheds Light on Long-term Trends in Fertility},
+  author      = {Malani, A. and Jacob, A.},
+  year        = {2024},
+  institution = {National Bureau of Economic Research},
+  number      = {33175},
+  doi         = {10.3386/w33175},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_Malani_NBERw33175_SurvivingChildren.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanikinnan2024healthinsuranceindia,
+  title       = {Evaluating and Pricing Health Insurance in Lower-income Countries: {A} Field Experiment in {India}},
+  author      = {Malani, A. and Kinnan, C. and Conti, G. and Imai, K. and Miller, M. and Swaminathan, S. and Voena, A. and Woda, B.},
+  year        = {2024},
+  institution = {National Bureau of Economic Research},
+  number      = {32239},
+  doi         = {10.3386/w32239},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_Malani_NBERw32239_PricingHealthInsuranceIndia.pdf},
+  category    = {working-papers}
+}
+
+@techreport{rosenbaummalani2024earlylife,
+  title       = {Testing frameworks for early life effects: the developmental constraints and adaptive response hypotheses do not explain key fertility outcomes in wild female baboons},
+  author      = {Rosenbaum, S. and Malani, A. and Lea, A. J. and Tung, J. and Alberts, S. C. and Archie, E. A.},
+  year        = {2024},
+  institution = {bioRxiv},
+  number      = {2024.04.23.590627},
+  doi         = {10.1101/2024.04.23.590627},
+  note        = {Revise and resubmit at \textit{Proceedings of the Royal Society B}},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_RosenbaumMalani_Biorxiv_EarlyLife.pdf},
+  category    = {working-papers}
+}
+
+@techreport{jaffemalani2024creditinsurance,
+  title       = {Access to Credit Reduces the Value of Insurance},
+  author      = {Jaffe, S. and Malani, A. and Reif, J.},
+  year        = {2024},
+  institution = {National Bureau of Economic Research},
+  number      = {32395},
+  doi         = {10.3386/w32395},
+  note        = {Revise and resubmit at \textit{Journal of Public Economics}},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_JaffeMalani_NBERw32395_CreditReducesValueInsurance.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanizhao2024covidverbalauto,
+  title       = {The Mortality Burden from {COVID} in Low-Income Settings: {Evidence} from Verbal Autopsies in {India}},
+  author      = {Malani, A. and Zhao, W.},
+  year        = {2024},
+  institution = {medRxiv},
+  number      = {2024.01.02.24300728},
+  doi         = {10.1101/2024.01.02.24300728},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2024_Malani_Medrxiv_VerbalAutopsies.pdf},
+  category    = {working-papers}
+}
+
+@techreport{leuzmalani2023coidisclosures,
+  title       = {Do Conflict of Interests Disclosures Work? {Evidence} from Citations in Medical Journals},
+  author      = {Leuz, C. and Malani, A. and Muhn, M. and Jakab, L.},
+  year        = {2023},
+  institution = {National Bureau of Economic Research},
+  number      = {30927},
+  doi         = {10.3386/w30927},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2023_LeuzMalani_NBERw30927_COIDisclosuresMedicine.pdf},
+  category    = {working-papers}
+}
+
+@techreport{holdenmalani2022scarceinformation,
+  title       = {Allocating Scarce Information},
+  author      = {Holden, R. T. and Malani, A. and Teh, C.},
+  year        = {2022},
+  institution = {National Bureau of Economic Research},
+  number      = {29846},
+  doi         = {10.3386/w29846},
+  note        = {Under review at \textit{Theoretical Economics}},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_HoldenMalani_NBERw29846_AllocatinScarceInfo.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malani2022vaccineallocation,
+  title       = {Vaccine Allocation Priorities Using Disease Surveillance and Economic Data},
+  author      = {Malani, A. and Soman, S. and Ramachandran, S. and Chen, A. and Lakdawalla, D. N.},
+  year        = {2022},
+  institution = {National Bureau of Economic Research},
+  number      = {29682},
+  doi         = {10.3386/w29682},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2022_Malani_NBERw29682_VaccineAllocationPrioritiesDemand.pdf},
+  category    = {working-papers}
+}
+
+@techreport{guptamalani2021incomecovid,
+  title       = {Explaining the Income and Consumption Effects of {COVID} in {India}},
+  author      = {Gupta, A. and Malani, A. and Woda, B.},
+  year        = {2021},
+  institution = {National Bureau of Economic Research},
+  number      = {28935},
+  doi         = {10.3386/w28935},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_GuptaMalani_NBERw29597_ExplaininIncomeConsumptionCovidIndia.pdf},
+  category    = {working-papers}
+}
+
+@techreport{guptamalani2021inequalitycovid,
+  title       = {Inequality in {India} Declined During {COVID}},
+  author      = {Gupta, A. and Malani, A. and Woda, B.},
+  year        = {2021},
+  institution = {National Bureau of Economic Research},
+  number      = {29597},
+  doi         = {10.3386/w29597},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2021_GuptaMalani_NBERw29597_InequalityIndiaCOVID.pdf},
+  category    = {working-papers}
+}
+
+@techreport{hemelmalani2020immunitypassport,
+  title       = {Immunity passports and moral hazard},
+  author      = {Hemel, D. J. and Malani, A.},
+  year        = {2020},
+  institution = {University of Chicago, Public Law Working Paper},
+  number      = {743},
+  url         = {https://chicagounbound.uchicago.edu/law_and_economics/1012/},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2020_HemelMalani_ImmunityPassportsMoralHazardCOVID.pdf},
+  category    = {working-papers}
+}
+
+@techreport{kapoormalani2020authoritarian,
+  title       = {Authoritarian governments appear to manipulate {COVID} data},
+  author      = {Kapoor, M. and Malani, A. and Ravi, S. and Agrawal, A.},
+  year        = {2020},
+  institution = {arXiv},
+  number      = {2007.09566},
+  url         = {https://arxiv.org/abs/2007.09566},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2020_KapoorMalani_Arxiv_AuthoritarianGovtCOVIDReporting.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanimohanan2020biharprevalence,
+  title       = {Prevalence of {SARS-CoV}-2 among workers returning to {Bihar} gives snapshot of {COVID} across {India}},
+  author      = {Malani, A. and Mohanan, M. and Kumar, C. and Kramer, J. and Tandel, V.},
+  year        = {2020},
+  institution = {medRxiv},
+  number      = {2020.06.26.20138545},
+  doi         = {10.1101/2020.06.26.20138545},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2020_Malani_Medrxiv_BiharCOVIDPrevalence.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malani2020adaptivecontrol,
+  title       = {Adaptive Control of {COVID}-19 Outbreaks in {India}: {Local}, Gradual, and Trigger-based Exit Paths from Lockdown},
+  author      = {Malani, A. and Soman, S. and Asher, S. and Novosad, P. and Imbert, C. and Tandel, V. and Agarwal, A. and Alomar, A. and Sarker, A. and Shah, D. and Shen, D. and Gruber, J. and Sachdeva, S. and Kaiser, D. and Bettencourt, L. M. A.},
+  year        = {2020},
+  institution = {National Bureau of Economic Research},
+  number      = {27532},
+  doi         = {10.3386/w27532},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2020_Malani_NBERw27532_AdaptiveControlCOVID.pdf},
+  category    = {working-papers}
+}
+
+@techreport{bakermalani2015circuitsplit,
+  title       = {Do judges actually care about the law? {Evidence} from circuit split data},
+  author      = {Baker, S. and Malani, A.},
+  year        = {2015},
+  institution = {Conference on Empirical Legal Studies},
+  category    = {working-papers}
+}
+
+@techreport{beylinmalani2007spousalaltruism,
+  title       = {Finding Love in the Wreckage: {Estimating} Spousal Altruism with Data on Fatal Car Accidents},
+  author      = {Beylin, I. and Malani, A. and Abrams, D.},
+  year        = {2007},
+  institution = {3rd Annual Conference on Empirical Legal Studies Papers},
+  url         = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1119379},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2007_BeylinMalani_LovWreckage.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanimullin2005asbestos,
+  title       = {Assessing the Merits of Reallocation under Joint and Several Liability: {Evidence} from Asbestos Litigation},
+  author      = {Malani, A. and Mullin, C.},
+  year        = {2005},
+  institution = {University of Virginia Law School Working Paper},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2005_MalaniMullin_WP_ReallocationJointSeveral.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanichoi2004nonprofit,
+  title       = {Are non-profit firms simply for-profits in disguise? {Evidence} from executive compensation in the nursing home industry},
+  author      = {Malani, A. and Choi, A. H.},
+  year        = {2004},
+  institution = {SSRN},
+  url         = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=617362},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2004_MalaniChoi_NonProfitNursingHome.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malanihu2004optionvalue,
+  title       = {The option value of new therapeutics},
+  author      = {Malani, A. and Hu, F.},
+  year        = {2004},
+  institution = {SSRN},
+  number      = {617382},
+  url         = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=617382},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2004_MalaniHu_OptionValueNewTherapeutics.pdf},
+  category    = {working-papers}
+}
+
+@techreport{malani2002felonymurder,
+  title       = {Does the felony murder rule deter? {Evidence} from {FBI} crime data},
+  author      = {Malani, A.},
+  year        = {2002},
+  institution = {Working Paper},
+  url         = {https://www.researchgate.net/profile/Anup-Malani/publication/265435387_Does_the_Felony-Murder_Rule_Deter_Evidence_from_FBI_Crime_Data/links/5745b88708ae298602f9d20f/Does-the-Felony-Murder-Rule-Deter-Evidence-from-FBI-Crime-Data.pdf},
+  pdf         = {https://raw.githubusercontent.com/anup-malani/website_personal/main/publications/2002_Malani_FelonyMurderRule.pdf},
+  category    = {working-papers}
+}
