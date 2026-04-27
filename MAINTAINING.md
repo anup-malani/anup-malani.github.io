@@ -125,7 +125,7 @@ To feature on the home page, add `selected = {true}`.
 
 ### 3. Add the CV LaTeX entry
 
-The CV is authored in LaTeX in `~/UChicago Law Dropbox/Anup Malani/Apps/Overleaf/Resume/`. Edit one of:
+The CV is authored in LaTeX in the [`anup-malani/cv`](https://github.com/anup-malani/cv) repo (cloned to `~/github/cv/`). Edit one of:
 
 - **`Pubs_Sorted.tex`** for peer-reviewed papers — find the right `\subsection*{Health|Statistics|Economic growth and development|Blockchain|Law & regulation|Journal Articles}` block, insert in correct year position:
   ```latex
@@ -150,7 +150,7 @@ GitHub Action rebuilds in ~60–90s. Verify at https://anupmalani.com/publicatio
 
 The CV PDF is **not** rebuilt automatically. After adding 1–N papers:
 
-1. `cd "/Users/amalani/UChicago Law Dropbox/Anup Malani/Apps/Overleaf/Resume" && latexmk -pdf -interaction=nonstopmode main_sorted.tex`
+1. `cd ~/github/cv && git pull --ff-only && latexmk -pdf -interaction=nonstopmode main_sorted.tex`
 2. Mint dated filename: `Malani Resume Sorted YYMM.pdf` (where YYMM is the current year-month, e.g., `2604`).
 3. Copy to `~/github/website_personal/`, commit + push to `website_personal`.
 4. Edit `_pages/cv.md` in **this** repo: replace the previous YYMM in the GitHub blob URL with the new YYMM.
