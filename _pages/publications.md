@@ -11,6 +11,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+## Published
+
+{% bibliography -q @*[category!=working-papers] %}
+
+## Working Papers
+
+{% bibliography -q @*[category=working-papers] %}
 
 </div>
