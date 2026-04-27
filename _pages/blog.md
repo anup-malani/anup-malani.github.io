@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blog/
-title: Blog
+permalink: /substack/
+title: Substack
 nav: true
 nav_order: 4
 description: Posts from <a href='https://anupmalani.substack.com' target='_blank'>anupmalani.substack.com</a> — Research Notes on epidemics and economic development.

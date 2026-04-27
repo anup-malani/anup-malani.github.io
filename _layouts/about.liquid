@@ -71,12 +71,6 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    <!-- Contact note (icons moved to top of header) -->
-    {% if page.social and site.contact_note %}
-      <div class="social social-bottom">
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
