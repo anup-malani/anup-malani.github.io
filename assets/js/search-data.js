@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/press/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
+        },{id: "nav-substack",
+          title: "Substack",
           description: "Posts from anupmalani.substack.com — Research Notes on epidemics and economic development.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/substack/";
           },
         },{id: "nav-cv",
           title: "CV",
