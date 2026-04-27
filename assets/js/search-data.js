@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/press/";
           },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "Posts from anupmalani.substack.com — Research Notes on epidemics and economic development.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -490,13 +497,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/anup_malani", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
