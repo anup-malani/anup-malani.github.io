@@ -464,25 +464,11 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
+        id: 'social-x',
+        title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/anup-malani/website_personal/blob/main/Malani%20Resume%20Sorted%202504.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%61%6D%61%6C%61%6E%69@%75%63%68%69%63%61%67%6F.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=E90f2WAAAAAJ", "_blank");
+          window.open("https://twitter.com/anup_malani", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -492,11 +478,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/anup-malani-a1551b2", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/anup_malani", "_blank");
+          window.open("https://scholar.google.com/citations?user=E90f2WAAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%61%6D%61%6C%61%6E%69@%75%63%68%69%63%61%67%6F.%65%64%75", "_blank");
         },
       },{
       id: 'light-theme',
