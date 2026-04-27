@@ -24,11 +24,16 @@
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: rgba(0, 0, 0, 0.55);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;
+  }
+
+  // Dark mode: lighter gray for the year header so it stays legible.
+  html[data-theme="dark"] & h2.bibliography {
+    color: rgba(255, 255, 255, 0.65);
   }
 
   ol.bibliography {
