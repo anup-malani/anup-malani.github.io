@@ -40,13 +40,6 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- Social icons (right under bio, above Selected Publications) -->
-    {% if page.social %}
-      <div class="social social-top">
-        <div class="contact-icons">{% social_links %}</div>
-      </div>
-    {% endif %}
-
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>

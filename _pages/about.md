@@ -33,3 +33,7 @@ Malani is also a Professor (courtesy) at the Pritzker School of Medicine at the 
 Malani is an elected member of the American Academy of Arts & Sciences, a member of the Covid Crisis Group, and has twice won the Emergent Ventures Prize.
 
 He has a J.D. and a Ph.D. (economics) from the University of Chicago (advisors: Gary Becker, Tomas Philipson, and Willard Manning).
+
+<div class="social social-top">
+  <div class="contact-icons">{% social_links %}</div>
+</div>
