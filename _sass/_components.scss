@@ -169,7 +169,24 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Social (bottom)
+// Social (top of about page — small, left-aligned)
+
+.social.social-top {
+  text-align: left;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+
+  .contact-icons {
+    font-size: 1.4rem;
+    line-height: 1;
+
+    a {
+      margin-right: 0.5rem;
+    }
+  }
+}
+
+// Social (legacy, full-size; not used now that icons live at top)
 
 .social {
   text-align: center;
