@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum vitae, sorted by topic. Maintained in LaTeX; recompiled and pushed via the /publish-cv skill.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
