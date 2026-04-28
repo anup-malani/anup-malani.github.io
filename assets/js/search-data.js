@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-substack",
           title: "Substack",
-          description: "Posts from anupmalani.substack.com — Research Notes on epidemics and economic development.",
+          description: "Posts from anupmalani.substack.com — Research Notes.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/substack/";
