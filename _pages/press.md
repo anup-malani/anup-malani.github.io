@@ -2,7 +2,6 @@
 layout: page
 permalink: /press/
 title: Press
-description: Op-eds, blog posts, podcasts, and online talks.
 nav: true
 nav_order: 3
 ---
