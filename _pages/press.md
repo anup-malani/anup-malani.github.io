@@ -15,10 +15,17 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 
 {% assign press = site.data.press %}
 
+<nav class="press-quicklinks">
+  {% if press.op_eds and press.op_eds.size > 0 %}<a href="#op-eds">Op-Eds</a>{% endif %}
+  {% if press.blogs and press.blogs.size > 0 %} &middot; <a href="#blogs">Blogs and Online Articles</a>{% endif %}
+  {% if press.podcasts and press.podcasts.size > 0 %} &middot; <a href="#podcasts">Podcasts</a>{% endif %}
+  {% if press.talks and press.talks.size > 0 %} &middot; <a href="#talks">Online Talks</a>{% endif %}
+</nav>
+
 <div class="publications">
 
 {% if press.op_eds and press.op_eds.size > 0 %}
-  <h1>Op-Eds</h1>
+  <h1 id="op-eds">Op-Eds</h1>
   {% assign prev_year = "" %}
   {% for item in press.op_eds %}
     {% assign yr = item.date | slice: -4, 4 %}
@@ -39,7 +46,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 {% endif %}
 
 {% if press.blogs and press.blogs.size > 0 %}
-  <h1>Blogs and Online Articles</h1>
+  <h1 id="blogs">Blogs and Online Articles</h1>
   {% assign prev_year = "" %}
   {% for item in press.blogs %}
     {% assign yr = item.date | slice: -4, 4 %}
@@ -59,7 +66,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 {% endif %}
 
 {% if press.podcasts and press.podcasts.size > 0 %}
-  <h1>Podcasts</h1>
+  <h1 id="podcasts">Podcasts</h1>
   {% assign prev_year = "" %}
   {% for item in press.podcasts %}
     {% assign yr = item.date | slice: -4, 4 %}
@@ -79,7 +86,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 {% endif %}
 
 {% if press.talks and press.talks.size > 0 %}
-  <h1>Online Talks</h1>
+  <h1 id="talks">Online Talks</h1>
   {% assign prev_year = "" %}
   {% for item in press.talks %}
     {% assign yr = item.date | slice: -4, 4 %}
@@ -101,6 +108,10 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 </div>
 
 <style>
+  .press-quicklinks {
+    margin-bottom: 1.5rem;
+    font-size: 0.95em;
+  }
   .press-item {
     margin-bottom: 1rem;
   }
