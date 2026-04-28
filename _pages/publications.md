@@ -9,7 +9,8 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <nav class="press-quicklinks">
-  <a href="#published">Published</a> &middot; <a href="#working-papers">Working Papers</a>
+  <a href="#published" onclick="event.preventDefault(); document.getElementById('published').scrollIntoView({behavior:'smooth'});">Published</a> &middot;
+  <a href="#working-papers" onclick="event.preventDefault(); document.getElementById('working-papers').scrollIntoView({behavior:'smooth'});">Working Papers</a>
 </nav>
 
 <div class="publications">
