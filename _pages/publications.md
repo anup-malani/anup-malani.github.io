@@ -2,12 +2,15 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications in reverse chronological order.
 nav: true
 nav_order: 2
 ---
 
 {% include bib_search.liquid %}
+
+<nav class="press-quicklinks">
+  <a href="#published">Published</a> &middot; <a href="#working-papers">Working Papers</a>
+</nav>
 
 <div class="publications">
 
