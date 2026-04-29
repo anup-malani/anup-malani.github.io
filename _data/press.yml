@@ -217,6 +217,10 @@ podcasts:
     url: "https://www.wnyc.org/story/197736-judicial-activism-2012/"
 
 interviews:
+  - date: "May 26, 2020"
+    title: "UChicago scholar's COVID-19 task force creates innovative solutions in India"
+    venue: "UChicago News (via myScience)"
+    pdf: "https://raw.githubusercontent.com/anup-malani/website_personal/main/press/2020-05-26_UChicago_News_COVIDTaskForce_India.pdf"
   - date: "July 12, 2021"
     title: "Seroprevalence in Mumbai: An Interview with Anup Malani"
     venue: "Collateral Global"

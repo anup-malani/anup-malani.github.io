@@ -18,7 +18,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
   {% if press.op_eds and press.op_eds.size > 0 %}<a href="#op-eds">Op-Eds</a>{% endif %}
   {% if press.blogs and press.blogs.size > 0 %} &middot; <a href="#blogs">Blogs and Online Articles</a>{% endif %}
   {% if press.podcasts and press.podcasts.size > 0 %} &middot; <a href="#podcasts">Podcasts</a>{% endif %}
-  {% if press.interviews and press.interviews.size > 0 %} &middot; <a href="#interviews">Interviews</a>{% endif %}
+  {% if press.interviews and press.interviews.size > 0 %} &middot; <a href="#interviews">Interviews/Profiles</a>{% endif %}
   {% if press.talks and press.talks.size > 0 %} &middot; <a href="#talks">Online Talks</a>{% endif %}
 </nav>
 
@@ -86,7 +86,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
 {% endif %}
 
 {% if press.interviews and press.interviews.size > 0 %}
-  <h1 id="interviews">Interviews</h1>
+  <h1 id="interviews">Interviews/Profiles</h1>
   {% assign prev_year = "" %}
   {% for item in press.interviews %}
     {% assign yr = item.date | slice: -4, 4 %}
@@ -99,6 +99,7 @@ The year is extracted from the last 4 chars of `date` — works for any date str
       </div>
       <div class="periodical">
         <em>{{ item.venue }}</em>{% if item.interviewer %}, by {{ item.interviewer }}{% endif %} &middot; {{ item.date }}
+        {% if item.pdf %}&middot; <a href="{{ item.pdf }}" rel="external nofollow noopener" target="_blank">[PDF]</a>{% endif %}
       </div>
     </div>
     {% assign prev_year = yr %}
