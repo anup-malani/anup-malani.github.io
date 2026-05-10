@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/press/";
           },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-substack",
           title: "Substack",
           description: "Posts from anupmalani.substack.com — Research Notes.",
