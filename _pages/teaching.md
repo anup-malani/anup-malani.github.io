@@ -6,7 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-Courses taught, listed by most recent term. Primarily for law students at the University of Chicago unless otherwise noted.
+## Resources
+
+- [**AI training**]({{ '/teaching/ai/' | relative_url }}) — a hands-on curriculum for getting productive with [Claude Code](https://docs.anthropic.com/en/docs/claude-code), the terminal-based coding agent. Ten weekly sessions plus a bonus website build, free to use under a Creative Commons license.
+
+## Courses
+
+Listed by most recent term. Primarily for law students at the University of Chicago unless otherwise noted.
 
 {% assign teaching = site.data.teaching %}
 
@@ -17,10 +23,6 @@ Courses taught, listed by most recent term. Primarily for law students at the Un
   </li>
 {% endfor %}
 </ul>
-
-## Resources
-
-- [**AI training**]({{ '/teaching/ai/' | relative_url }}) — a hands-on curriculum for getting productive with [Claude Code](https://docs.anthropic.com/en/docs/claude-code), the terminal-based coding agent. Ten weekly sessions plus a bonus website build, free to use under a Creative Commons license.
 
 <style>
   .course-list li {
