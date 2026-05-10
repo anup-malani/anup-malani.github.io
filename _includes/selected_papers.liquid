@@ -1,9 +1,9 @@
 <div class="publications">
   <h3 class="selected-subhead">Recent</h3>
-  {% bibliography --group_by none --sort year --order descending --keywords recent %}
+  {% bibliography -q @*[keywords=recent] %}
 
   <h3 class="selected-subhead">Selected</h3>
-  {% bibliography --group_by none --sort year --order descending --keywords selected %}
+  {% bibliography -q @*[keywords=selected] %}
 </div>
 
 <style>
