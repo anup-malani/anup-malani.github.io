@@ -1,15 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 99
-calendar: true
+title: Teaching
+nav: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+A full course list — across the Law School, Economics, Pritzker School of Medicine, Booth, and Harris — is forthcoming. In the meantime, the [CV]({{ '/cv/' | relative_url }}) has the canonical list.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Resources
 
-{% include courses.liquid %}
+- [**AI training**]({{ '/teaching/ai/' | relative_url }}) — a hands-on curriculum for getting productive with [Claude Code](https://docs.anthropic.com/en/docs/claude-code), the terminal-based coding agent. Ten weekly sessions plus a bonus website build, free to use under a Creative Commons license.

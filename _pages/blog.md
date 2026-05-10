@@ -3,7 +3,7 @@ layout: page
 permalink: /substack/
 title: Substack
 nav: true
-nav_order: 4
+nav_order: 5
 description: Posts from <a href='https://anupmalani.substack.com' target='_blank'>anupmalani.substack.com</a> — Research Notes.
 ---
 
