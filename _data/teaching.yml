@@ -1,0 +1,74 @@
+# Teaching data — rendered by _pages/teaching.md
+#
+# Within each school, courses are listed in reverse-chronological order
+# of the most-recent term taught (with alphabetical ties).
+# When adding a new term, prepend it to `terms` AND re-sort the school's
+# course list so the just-taught course floats to the top.
+
+schools:
+  - name: University of Chicago
+    note: "Primarily for law students unless otherwise indicated."
+    courses:
+      - name: "Big Question: Why is Fertility Falling?"
+        audience: "for undergraduates"
+        terms: "Spring 2025"
+      - name: "Microeconomics"
+        terms: "Spring 2025, Spring 2024, Spring 2023"
+      - name: "Law & Economics"
+        audience: "for law students"
+        terms: "Winter 2025, Fall 2017, Fall 2016, Fall 2015, Fall 2014, Fall 2013, Fall 2012, Fall 2011"
+      - name: "Blockchain & Cryptocurrencies"
+        audience: "for law and business students"
+        terms: "Spring 2024, Spring 2023, Winter 2020, Winter 2019"
+      - name: "Law & Economic Development"
+        audience: "for law and Masters/PhD students in other departments"
+        terms: "Fall 2023, Fall 2021, Spring 2020, Spring 2019, Spring 2018"
+      - name: "Securities Law"
+        terms: "Spring 2022, Spring 2021"
+      - name: "Health Law and Policy"
+        terms: "Fall 2021, Winter 2020"
+      - name: "Big Problems"
+        audience: "for law and business students"
+        terms: "Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017"
+      - name: "Canonical Ideas in the Law"
+        terms: "Fall 2015 and Spring 2016; Fall 2014 and Spring 2015"
+      - name: "Federal Budget Policy"
+        terms: "Spring 2014, Spring 2012"
+      - name: "Law & Economics"
+        audience: "Economics PhD class"
+        terms: "Spring 2014, Spring 2013, Spring 2012"
+      - name: "Health Law"
+        terms: "Spring 2013, Fall 2011, Spring 2011, Spring 2008, Spring 2007, Fall 2006, Spring 2006, Fall 2003"
+      - name: "Federal Reserve System"
+        terms: "Spring 2011"
+      - name: "Bankruptcy"
+        terms: "Spring 2010, Fall 2007, Winter 2007, Winter 2006"
+      - name: "Contracts"
+        terms: "Winter 2010"
+      - name: "Food and Drug Law"
+        terms: "Fall 2009, Spring 2008"
+      - name: "Insurance Law"
+        terms: "Winter 2008"
+
+  - name: Harvard University
+    courses:
+      - name: "Health Law Policy Workshop"
+        terms: "Spring 2009, Fall 2008"
+      - name: "Health Law"
+        terms: "Fall 2008"
+
+  - name: University of Virginia
+    courses:
+      - name: "Health Policy"
+        audience: "seminar"
+        terms: "Fall 2012, Spring 2010, Fall 2003"
+      - name: "Bankruptcy"
+        audience: "Law & Business track"
+        terms: "Spring 2005"
+      - name: "Corporations"
+        terms: "Spring 2005, Spring 2004, Spring 2003"
+      - name: "Executive Compensation"
+        terms: "Spring 2005"
+      - name: "Health Economics"
+        audience: "Department of Economics"
+        terms: "Spring 2004"
