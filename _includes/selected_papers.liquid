@@ -1,3 +1,20 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h3 class="selected-subhead">Recent</h3>
+  {% bibliography --group_by none --query @*[selected=true][year>=2025]* %}
+
+  <h3 class="selected-subhead">Selected</h3>
+  {% bibliography --group_by none --query @*[selected=true][year<2025]* %}
 </div>
+
+<style>
+  .selected-subhead {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.1em;
+    font-weight: 600;
+    opacity: 0.8;
+  }
+  .selected-subhead:first-of-type {
+    margin-top: 0.5rem;
+  }
+</style>
